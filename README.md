@@ -1,4 +1,4 @@
-Code for the paper *The Political Economy of Embodied Technologies* (Hochman & Zilberman, 2017)
+Code for the paper *Optimal environmental taxation in response to an environmentally-unfriendly political challenger* (Hochman & Zilberman, 2017)
 
 ## Usage
 
