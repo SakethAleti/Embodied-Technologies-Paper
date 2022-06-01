@@ -1,5 +1,5 @@
 
- Hochman, G., & Zilberman, D. (2021). **[Optimal environmental taxation in response to an environmentally-unfriendly political challenger]([url](https://doi.org/10.1016/j.jeem.2020.102407))**. Journal of Environmental Economics and Management, 106, 102407.
+ Hochman, G., & Zilberman, D. (2021). **[Optimal environmental taxation in response to an environmentally-unfriendly political challenger](https://doi.org/10.1016/j.jeem.2020.102407)**. Journal of Environmental Economics and Management, 106, 102407.
 
 
 # Code Description
